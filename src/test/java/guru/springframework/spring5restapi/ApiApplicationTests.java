@@ -1,4 +1,4 @@
-package guru.springframework.api;
+package guru.springframework.spring5restapi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
